@@ -1,3 +1,5 @@
+# Aula 01 - Laboratório de Grafos e Redes Sociais
+
 # Primeiro script em R
 
 # Somando dois números quaisquer
